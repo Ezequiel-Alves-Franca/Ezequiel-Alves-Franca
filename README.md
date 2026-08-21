@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-![world devops](https://cdn.prod.website-files.com/614b27842ccc0d7f17cd419a/61ae03c78b033d0b25a81dd4_gif_LP_int.gif)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+<--
+![world devops](https://cdn.prod.website-files.com/614b27842ccc0d7f17cd419a/61ae03c78b033d0b25a81dd4_gif_LP_int.gif)
 -->
