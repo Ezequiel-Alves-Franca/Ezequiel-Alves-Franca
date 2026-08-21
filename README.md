@@ -6,6 +6,6 @@
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjV4Zzk4YmFtb3Fhcml6ZTNrcDlvOGNnNHo4Z3o3MmR5dXM3MXhtcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.webp" width=140/>
 |
-<img src="https://miro.medium.com/v2/resize:fit:1400/0*ZDfoTKv7ScPzEw-Y.gif" width=120/>
+<img src="https://miro.medium.com/v2/resize:fit:1400/0*ZDfoTKv7ScPzEw-Y.gif" width=100/>
 
 
