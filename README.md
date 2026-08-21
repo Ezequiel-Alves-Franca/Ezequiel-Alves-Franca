@@ -19,4 +19,3 @@ I'm a **Full-Stack Developer and DevOps Engineer** passionate about software dev
 
 I enjoy building applications, automating processes, and learning new technologies to solve real-world problems.
 
-<img src="https://miro.medium.com/v2/resize:fit:1400/0*ZDfoTKv7ScPzEw-Y.gif" width="100"/>
