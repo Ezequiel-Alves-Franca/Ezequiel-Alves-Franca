@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![world devops](https://cdn.prod.website-files.com/614b27842ccc0d7f17cd419a/61ae03c78b033d0b25a81dd4_gif_LP_int.gif)
+![coding devops](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjV4Zzk4YmFtb3Fhcml6ZTNrcDlvOGNnNHo4Z3o3MmR5dXM3MXhtcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.webp)
 
