@@ -11,7 +11,7 @@
 I'm a **Full-Stack Developer and DevOps Engineer** passionate about software development, cloud computing, automation, and scalable systems.
 
 * ☁️ AWS & Cloud Computing
-* 🐍 Python & ☕ Java
+* 🐍 Python & ☕ JavaScript
 * 🐳 Docker & Kubernetes
 * 🔧 Terraform & Infrastructure as Code
 * 🚀 CI/CD & DevOps
